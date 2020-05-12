@@ -1,0 +1,10 @@
+.container{
+    margin: 120px auto;
+}
+li{
+    list-style-type: none;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000000;
+    
+}
